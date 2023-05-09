@@ -24,7 +24,7 @@ At the beggining, I prepared a few descriptive statistic and checked for null. T
 
 Data set was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
 ## Results: 
-* Decission Trees Classifier:
+* **Decission Trees Classifier:**
 - Confusion matrix
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/cm_dt.png)
 - Accuracy = 0,85 (85% of the values were classified correctly)
@@ -32,7 +32,7 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 - The most important variable was number of other supermarkets in which the person does shopping.
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/fi_dt.png)
 
-* Random Forest Classifier:
+* **Random Forest Classifier:**
 - Confusion matrix
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/cm_rm.png)
 - Accuracy = 0,85 (85% of the values were classified correctly)
@@ -41,7 +41,7 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 .... service.
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/fi_rf.png)
 
-* k-Nearest Neighbors Classifier:
+* **k-Nearest Neighbors Classifier:**
 - Confusion matrix
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/cm_kn.png)
 - Accuracy = 0,83 (83% of the values were classified correctly)
@@ -70,17 +70,17 @@ Variables:
 Data set was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
 
 ## Results: 
-* Decission Tree Regressor:
+* **Decission Tree Regressor:**
 - MSE = 12,97
 - RMSE = 3,60
 - The percentage of error in the prediction is 6,68%.
 - The most important variable was income and assortment.
-* Random Forest Regressor:
+* **Random Forest Regressor:**
 - MSE = 26,79
 - RMSE = 5,17
 - The percentage of error in the prediction is 9,60%.
 - The most important variable was aincome and assortment.
-* k-Nearest Neighbors Regressor:
+* **k-Nearest Neighbors Regressor:**
 - MSE = 65,99
 - RMSE = 8,12
 - The percentage of error in the prediction is 15,07%.
