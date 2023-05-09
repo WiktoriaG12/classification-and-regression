@@ -26,8 +26,7 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 ## Results: 
 * **Decission Trees Classifier:**
 - Confusion matrix
-..
-![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/cm_dt.png)
+-![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/cm_dt.png)
 - Accuracy = 0,85 (85% of the values were classified correctly)
 - AUC = 0,89
 - The most important variable was number of other supermarkets in which the person does shopping.
