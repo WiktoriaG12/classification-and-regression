@@ -22,7 +22,7 @@ Variables:
 At the beggining, I prepared a few descriptive statistic and checked for null. There are no null values. Nearly half of all respondents are going to shop in the supermarket. Women rated their satisfaction with the service and assortment in the supermarket higher.
 
 Data set was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
-# Results: 
+## Results: 
 * Decission Trees Classifier:
 - Accuracy = 0,85 (85% of the values were classified correctly)
 - AUC = 0,89
@@ -58,7 +58,7 @@ Variables:
 
 Data set was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
 
-# Results: 
+## Results: 
 * Decission Tree Regressor:
 - MSE = 12,97
 - RMSE = 3,60
