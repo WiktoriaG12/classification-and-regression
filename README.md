@@ -77,4 +77,4 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 The best results were obtained to Decission Tree Regressor (the lowest RMSE).
 
 
-![alt text](https://github.com/WiktoriaG12/projects/images/blob/main/purchase\)sex.png?raw=true)
+![alt text](https://github.com/WiktoriaG12/projects/images/main/purchase\)sex.png?raw=true)
