@@ -20,6 +20,7 @@ Variables:
 * purchase - Are you going to shop at the supermarket? (0 - no, 1 - yes)
 
 At the beggining, I prepared a few descriptive statistic and checked for null. There are no null values. Nearly half of all respondents are going to shop in the supermarket. Women rated their satisfaction with the service and assortment in the supermarket higher.
+![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/purchase\)sex.png)
 
 Data set was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
 ## Results: 
@@ -75,4 +76,4 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 - The percentage of error in the prediction is 15,07%.
 
 The best results were obtained to Decission Tree Regressor (the lowest RMSE).
-![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/purchase\)sex.png)
+
