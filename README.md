@@ -30,6 +30,7 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 - Accuracy = 0,85 (85% of the values were classified correctly)
 - AUC = 0,89
 - The most important variable was number of other supermarkets in which the person does shopping.
+![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/fi_dt.png)
 
 * Random Forest Classifier:
 - Confusion matrix
@@ -38,6 +39,8 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 - AUC = 0,91
 - The most important variables were number of other supermarkets in which the person does shopping and satisfaction of 
 .... service.
+![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/fi_rf.png)
+
 * k-Nearest Neighbors Classifier:
 - Confusion matrix
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/cm_kn.png)
