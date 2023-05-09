@@ -47,7 +47,7 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 To sum up, the best results were obtained to Random Fores Classisier (the highest accuracy and AUC). 
 
 
-## [Project 2: Prediction of satisfaction with supermarket service] (https://github.com/WiktoriaG12/projects/blob/main/Project2_Regression.ipynb)
+## [Project 2: Prediction of satisfaction with supermarket service](https://github.com/WiktoriaG12/projects/blob/main/Project2_Regression.ipynb)
 The aim of the project is to compare which of the regression methods best predicts whether a person with certain characteristics is satisfied with supermarket service. I used such regressors as **Decission Trees**, **Random Forest** and **k-Nearest Neighbors**. 
 Root mean square error were used to evaluate the quality of regressors (the lower the RMSE, the better a given model is able to fit a dataset).
 
