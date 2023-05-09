@@ -75,6 +75,4 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 - The percentage of error in the prediction is 15,07%.
 
 The best results were obtained to Decission Tree Regressor (the lowest RMSE).
-
-
-![alt text](https://github.com/WiktoriaG12/projects/images/main/purchase\)sex.png?raw=true)
+![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/purchase\)sex.png)
