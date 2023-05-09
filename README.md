@@ -19,10 +19,23 @@ Variables:
 * distance - distance of residence
 * purchase - Are you going to shop at the supermarket? (0 - no, 1 - yes)
 
-At the beggining, I prepared a few descriptive statistic and checked for null. Nearly half of all respondents are going to shop in the supermarket. Women rated their satisfaction with the service and assortment in the supermarket higher.
+At the beggining, I prepared a few descriptive statistic and checked for null. There are no null values. Nearly half of all respondents are going to shop in the supermarket. Women rated their satisfaction with the service and assortment in the supermarket higher.
 
+Data set was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
+# Results: 
+* Decission Trees Classifier:
+...* Accuracy = 0,85 (85% of the values were classified correctly)
+...* AUC = 0,89
+...* The most important variable was number of other supermarkets in which the person does shopping.
+* Random Forest Classifier:
+...* Accuracy = 0,85 (85% of the values were classified correctly)
+...* AUC = 0,91
+...* The most important variables were number of other supermarkets in which the person does shopping and satisfaction of 
+.... service.
+* k-Nearest Neighbors Classifier:
+...* Accuracy = 0,83 (83% of the values were classified correctly)
+...* AUC = 0,90
 
-
-Data was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
+To sum up, the best results were obtained to Random Fores Classisier (the highest accuracy and AUC). 
 
 
