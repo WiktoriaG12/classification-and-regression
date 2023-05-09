@@ -24,17 +24,17 @@ At the beggining, I prepared a few descriptive statistic and checked for null. T
 Data set was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
 # Results: 
 * Decission Trees Classifier:
-..* Accuracy = 0,85 (85% of the values were classified correctly)
-..* AUC = 0,89
-..* The most important variable was number of other supermarkets in which the person does shopping.
+- Accuracy = 0,85 (85% of the values were classified correctly)
+- AUC = 0,89
+- The most important variable was number of other supermarkets in which the person does shopping.
 * Random Forest Classifier:
-..* Accuracy = 0,85 (85% of the values were classified correctly)
-..* AUC = 0,91
-..* The most important variables were number of other supermarkets in which the person does shopping and satisfaction of 
+- Accuracy = 0,85 (85% of the values were classified correctly)
+- AUC = 0,91
+- The most important variables were number of other supermarkets in which the person does shopping and satisfaction of 
 .... service.
 * k-Nearest Neighbors Classifier:
-..* Accuracy = 0,83 (83% of the values were classified correctly)
-..* AUC = 0,90
+- Accuracy = 0,83 (83% of the values were classified correctly)
+- AUC = 0,90
 
 To sum up, the best results were obtained to Random Fores Classisier (the highest accuracy and AUC). 
 
@@ -60,18 +60,18 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 
 # Results: 
 * Decission Tree Regressor:
-...* MSE = 12,97
-...* RMSE = 3,60
-...* The percentage of error in the prediction is 6,68%.
-...* The most important variable was income and assortment.
+- MSE = 12,97
+- RMSE = 3,60
+- The percentage of error in the prediction is 6,68%.
+- The most important variable was income and assortment.
 * Random Forest Regressor:
-...* MSE = 26,79
-...* RMSE = 5,17
-...* The percentage of error in the prediction is 9,60%.
-...* The most important variable was aincome and assortment.
+- MSE = 26,79
+- RMSE = 5,17
+- The percentage of error in the prediction is 9,60%.
+- The most important variable was aincome and assortment.
 * k-Nearest Neighbors Regressor:
-...* MSE = 65,99
-...* RMSE = 8,12
-...* The percentage of error in the prediction is 15,07%.
+- MSE = 65,99
+- RMSE = 8,12
+- The percentage of error in the prediction is 15,07%.
 
 The best results were obtained to Decission Tree Regressor (the lowest RMSE).
