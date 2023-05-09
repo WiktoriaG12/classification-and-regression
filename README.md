@@ -21,6 +21,8 @@ Variables:
 
 At the beggining, I prepared a few descriptive statistic and checked for null. Nearly half of all respondents are going to shop in the supermarket. Women rated their satisfaction with the service and assortment in the supermarket higher.
 
+
+
 Data was splitted into training data and testing data. I used 20% of data for testing and 80% for training. 
 
 
