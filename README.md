@@ -37,8 +37,7 @@ Data set was splitted into training data and testing data. I used 20% of data fo
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/cm_rm.png)
 - Accuracy = 0,85 (85% of the values were classified correctly)
 - AUC = 0,91
-- The most important variables were number of other supermarkets in which the person does shopping and satisfaction of 
-.... service.
+- The most important variables were number of other supermarkets and satisfaction of service.
 ![Screenshot](https://github.com/WiktoriaG12/projects/blob/main/images/fi_rf.png)
 
 * **k-Nearest Neighbors Classifier:**
